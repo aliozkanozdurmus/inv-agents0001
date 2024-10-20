@@ -29,8 +29,8 @@ export const readmeCnPath = resolve(root, 'README.zh-CN.md');
 export const metaPath = resolve(root, 'meta.json');
 export const meta = readJSONSync(metaPath);
 
-export const host = 'https://chat-agents.lobehub.com';
-export const githubHomepage = 'https://github.com/lobehub/lobe-chat-agents';
+export const host = 'https://4f04380f-8409-4aaa-bb8c-8ab45416d967.mock.pstmn.io/api/agents';
+export const githubHomepage = 'https://github.com/aliozkanozdurmus/inv-agents0001';
 
 export const readmeSplit = '<!-- AWESOME PROMPTS -->';
 
